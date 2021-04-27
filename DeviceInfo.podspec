@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 			Please User My Pod
                    DESC
 
-  spec.homepage     = "https://github.com/SkyOfFeather/DeviceInfo"
+  spec.homepage     = "https://github.com/SkyOfFeather/SkyDeviceInfo"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/SkyOfFeather/DeviceInfo.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/SkyOfFeather/SkyDeviceInfo.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
