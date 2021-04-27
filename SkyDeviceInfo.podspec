@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "DeviceInfo"
+  spec.name         = "SkyDeviceInfo"
   spec.version      = "0.0.1"
   spec.summary      = "This Pod Can Get iOS Device Info"
 
@@ -94,7 +94,7 @@ Pod::Spec.new do |spec|
   spec.source_files  = "DeviceInfo", "DeviceInfo/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
-  # spec.public_header_files = "DeviceInfo/**/*.h"
+  # spec.public_header_files = "SkyDeviceInfo/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
